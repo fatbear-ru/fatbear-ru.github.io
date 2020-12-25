@@ -61,6 +61,13 @@
 .paragraph {
   text-align:left;
 }
+.text_link {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
 .line {
 }
 .text_field {
@@ -70,6 +77,8 @@
 .text_area {
   color:#000000;
   text-align:left;
+}
+.table_cell {
 }
 .form_hint {
   color:#999999;
